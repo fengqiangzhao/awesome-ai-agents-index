@@ -221,6 +221,7 @@ Memory、检索增强、MCP、工具调用与沙箱。
 | 18 | [lastmile-ai/aiconfig](https://github.com/lastmile-ai/aiconfig) | 1087 | 配置驱动的生成式 AI 应用框架 |
 | 19 | [heurist-network/heurist-agent-framework](https://github.com/heurist-network/heurist-agent-framework) | 818 | 推理 / 工具 / 记忆 / MCP / AaaS |
 | 20 | [open-gitagent/gitagent](https://github.com/open-gitagent/gitagent) | 618 | Git-native：身份、规则、记忆皆版本化 |
+| 21 | [nuanu-ai/agent-payment-node](https://github.com/nuanu-ai/agent-payment-node) | 0 | macOS 本地 CLI 与 stdio MCP 支付运行时，签名需所有者在前台终端批准 |
 
 ---
 
